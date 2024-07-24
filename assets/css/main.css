@@ -1,4 +1,4 @@
-body {
+body.Home {
     background-color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -39,4 +39,6 @@ li a:hover {
     background-color: #969696;
 }
 
-
+body.Tips {
+    background-image: url();
+}
