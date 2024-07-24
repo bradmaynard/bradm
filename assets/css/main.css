@@ -42,5 +42,5 @@ li a:hover {
 body.Tips {
     background-color: white;
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url(ascot-finish.jpg);   
+    background-image: url("ascot-finish.jpg");   
 }
