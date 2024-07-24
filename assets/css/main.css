@@ -15,11 +15,10 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    background-color: dimgray;
     float: top;
     overflow: hidden;
     border-style: solid;
     border-radius: 15px;
-    border-width: 100px;
     border-color: dimgray;
+    background-color: dimgray;
 } 
