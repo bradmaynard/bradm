@@ -22,3 +22,7 @@ ul {
     border-color: dimgray;
     background-color: dimgray;
 } 
+
+li {
+    float: left;
+}
