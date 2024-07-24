@@ -5,7 +5,7 @@ body.Home {
 
 body.Tips {
     background-color: white;
-    background-image: url(ascot-finish.jpg);
+    background-image: image("/assets/images/ascot-finish.jpg");
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -48,3 +48,4 @@ li a:hover {
 p.odds-disclamer {
     font-size: 10px;
 }
+
