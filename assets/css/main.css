@@ -15,6 +15,7 @@ h1 {
     border-radius: 15px;
     border-style: solid;
     border-color: dimgray;
+    position: fixed;
 }
  
 ul {
@@ -48,4 +49,3 @@ li a:hover {
 p.odds-disclamer {
     font-size: 10px;
 }
-
