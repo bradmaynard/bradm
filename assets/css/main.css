@@ -1,5 +1,6 @@
 body.Home {
     background-image: url("/assets/images/IMG_7982.JPEG");
+    opacity: 0.5;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
@@ -9,13 +10,13 @@ body.Tips {
 }
 
 h1 {
-    color: white;
+    color: dimgray;
     background-color: dimgray;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     border-radius: 15px;
     border-style: solid;
 }
-
+ 
 ul {
     list-style-type: none;
     margin: 0;
