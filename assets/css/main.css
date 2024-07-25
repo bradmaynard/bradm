@@ -1,6 +1,7 @@
 body.Home {
     background-color: white;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-image: url("/assets/images/IMG_7982.JPEG")
 }
 
 body.Tips {
@@ -57,5 +58,9 @@ p.odds-disclaimer {
 }
 
 img.ascot-finish {
+    opacity: 0.9;
+}
+
+body.Home.background-image {
     opacity: 0.5;
 }
