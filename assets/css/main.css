@@ -49,9 +49,6 @@ p.odds-disclaimer {
     font-size: 10px;
 }
 
-.footer-disclaimer {
-    position: relative;
-    font-size: 8px;
-    bottom: 0;
-    text-align: center;
+footer.gamble {
+    text-align:center;
 }
