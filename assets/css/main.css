@@ -48,3 +48,10 @@ li a:hover {
 p.odds-disclamer {
     font-size: 10px;
 }
+
+.footer-disclamer{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 10;
+}
