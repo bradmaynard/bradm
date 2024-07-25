@@ -54,3 +54,7 @@ p.odds-disclaimer {
     z-index: 20;
     font-size: 8px;
 }
+
+.ascot-finish {
+    opacity: 0.5;
+}
