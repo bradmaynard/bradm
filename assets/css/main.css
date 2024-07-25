@@ -50,7 +50,8 @@ p.odds-disclaimer {
 }
 
 .footer-disclaimer {
+    position: relative;
     font-size: 8px;
-    right: 0.5;
     bottom: 0;
+    text-align: center;
 }
