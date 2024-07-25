@@ -55,3 +55,7 @@ p.odds-disclaimer {
     z-index: 20;
     font-size: 8px;
 }
+
+.footer {
+    text-align: center;
+}
