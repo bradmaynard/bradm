@@ -65,3 +65,12 @@ a.back-to-main-menu {
     background-color: transparent;
     text-decoration: none;
 }
+
+section.phone-tips {
+    text-align: center;
+    font-size: 30px;
+}
+
+p.odds-disclaimer-phone {
+    font-size: 15px;
+}
