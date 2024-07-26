@@ -59,6 +59,10 @@ nav.phone-layout {
     font-size: 30px;
 }
 
-.
+a.back-to-main-menu {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
 
 
