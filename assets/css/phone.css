@@ -1,0 +1,52 @@
+body.phone {
+    background-color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float: top;
+    overflow: hidden;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: dimgray;
+    background-color: dimgray;
+}
+
+li {
+    float: none;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #969696;
+}
+
+h6  {
+    color: white;
+    background-color: dimgray;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: dimgray;
+    font-size: 50px;
+}
+
+nav.phone-layout {
+    font-size: x-large;
+}
+
+.phone-info {
+    text-align: center;
+    font-size: 18px;
+}
